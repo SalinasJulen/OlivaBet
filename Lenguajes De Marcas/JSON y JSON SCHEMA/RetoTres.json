@@ -1,0 +1,88 @@
+{
+    "$schema": "./RetoTres.schema.json",
+    "Casino": [
+        {"idUsuario": "73",
+        "nombreUsuario": "DavyJones23",
+        "contrasena": "321ca6c23928968a61578c4396e23a8c",
+        "correoelectronico": "piratilla23@gmail.com",
+        "fecha_Alta": "2024-05-09T17:08:09Z",
+        "IP_Registro": "123.98.7.5",
+        "puntos":  435
+        },
+        {"idUsuario": "77",
+        "nombreUsuario": "TomasShelby1800",
+        "contrasena": "9c95eacbed3d8638597aa7aafc089202",
+        "correoelectronico": "shelby1@gmail.com",
+        "fecha_Alta": "2024-05-09T17:17:31Z",
+        "IP_Registro": "127.67.43.9",
+        "puntos": 9999
+        },
+        {"idUsuario": "72",
+        "nombreUsuario": "Cristiano07",
+        "contrasena": "f7608826f9018f79799bb6bc20cb1b55",
+        "correoelectronico": "siusiu@hotmail.com",
+        "fecha_Alta": "2024-05-09T17:07:07Z",
+        "IP_Registro": "156.67.8.2",
+        "puntos": 77777
+        },
+        {"idUsuario": "74",
+        "nombreUsuario": "LucasVazquez17",
+        "contrasena": "e99a1cabb25217e9c1c189081f4e2a0b",
+        "correoelectronico": "lucass17@hotmail.com",
+        "fecha_Alta": "2024-05-09T17:11:28Z",
+        "IP_Registro": "181.20.23.3",
+        "puntos": 6788
+        },
+        {"idUsuario": "79",
+        "nombreUsuario":"Jadjer04",
+        "contrasena": "31db881c9b4628095cbdc3b4d872bfd2",
+        "correoelectronico": "aa.oliva@aulanzt.net",
+        "fecha_Alta": "2024-05-10T08:20:07Z",
+        "IP_Registro": "192.168.56.1",
+        "puntos": 3180
+        },
+        {"idUsuario": "78",
+        "nombreUsuario": "SaleguiAlejandro23",
+        "contrasena": "30e24872067cfdd0b3c3365f3c822c57",
+        "correoelectronico": "rebollo76@gmail.eus",
+        "fecha_Alta": "2024-05-09T17:19:58Z",
+        "IP_Registro": "124.89.76.4",
+        "puntos": 3211
+        },
+        {"idUsuario": "110",
+        "nombreUsuario": "MartinTxo",
+        "contrasena": "c947eb5b4e82d605968d8ee690e07626",
+        "correoelectronico": "martin@hotmail.com",
+        "fecha_Alta": "2024-05-14T08:24:17Z",
+        "IP_Registro": "112.77.64.3",
+        "puntos": 5000
+        },
+        {"idUsuario": "111",
+        "nombreUsuario": "JoxeMai",
+        "contrasena": "dbdeabf1bb0fc1f9d80a73e3eb3240bd",
+        "correoelectronico": "joxebetimari@gmail.com",
+        "fecha_Alta": "2024-05-14T08:25:19Z",
+        "IP_Registro": "133.33.31.2",
+        "puntos": 5000
+        },
+        {"idUsuario": "112",
+        "nombreUsuario": "Aaronson",
+        "contrasena": "380cc7f9a5ae29663d849ac0fe4069b1",
+        "correoelectronico": "aaronoson@gmail.com",
+        "fecha_Alta": "2024-05-14T08:26:14Z",
+        "IP_Registro": "187.93.10.1",
+        "puntos": 5000
+        },
+        {"idUsuario":"113",
+        "nombreUsuario": "Fogi99",
+        "contrasena": "a72c348edfcd38dfeb384b35f4c2a104",
+        "correoelectronico": "fogi@gmail.com",
+        "fecha_Alta": "2024-05-14T08:27:06Z",
+        "IP_Registro": "165.55.43.7",
+        "puntos":5000
+        }
+    ]
+}
+
+
+

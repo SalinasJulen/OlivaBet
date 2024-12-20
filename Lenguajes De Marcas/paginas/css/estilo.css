@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background: #009FFF;  
+    background: -webkit-linear-gradient(to right, #fff, #46064e); 
+    background: linear-gradient(to right, #fff, #46064e);
+    font-family: 'Roboto', sans-serif;  
+    background-image: url(../images/slots.jpg);
+}
+form{
+    position: absolute;
+    min-width: 280px;
+    max-width: 25%;
+    width: 25%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 15px;
+    box-shadow: 0 1rem 1rem  rgba(0, 0, 0, 0.3);
+    background-color: -webkit-linear-gradient(to right, #fff, white);
+    backdrop-filter: blur(100rem);
+    border-radius: 5px;
+    color: #fff;
+}
+h1{
+    position: relative;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 7px;
+}
+h1::after{
+    content: "";
+    position: absolute;
+    height: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+    width: 120px;
+    left: 0;
+    bottom: 0;    
+}
+input{
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 5px 6px;
+    margin-bottom: 15px;
+    border: none;
+    outline: none;
+    border-radius: 1px;
+}
+
+.acuerdo{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+button{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height:40px ;
+    background-color: #5d5b5b96;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: #fff;
+}
+button.parpadea {
+    animation: parpadeo 1s infinite;
+}
+
+@keyframes parpadeo {
+    0% {
+        background-color: #3498db;
+    }
+    25% {
+        background-color: #fbff00;
+    }
+    50% {
+        background-color: #00ff00;
+    }
+    75% {
+        background-color: #ff7b00;
+    }
+    100% {
+        background-color: #621b6b;
+    }
+}
+
+.link{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+a{
+    color: #fff;
+}
+.modal-img {
+    max-width: 200px;
+    background-color: #fff;
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+    color: #fff;
+  }
+  .modal-container {
+    position: relative;
+    margin: auto;
+    width: 90%;
+    max-width: 600px;
+    max-height: 100%;
+    padding: 0.75em 0.62em;
+    display: flex;
+    gap: 1em;
+    flex-direction: column;
+    place-items: center;
+    grid-auto-columns: 100%;
+  }
